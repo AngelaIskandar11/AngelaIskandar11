@@ -1,5 +1,14 @@
-### Hi there 👋
+# Halo semua! 
 
+Perkenalkan nama saya **Angela Iskandar**.
+
+Saya seorang **Mahasiswa jurusan Matematika** di Universitas Katolik Parahyangan.
+
+Saya mengambil jurusan Matematika dengan fokus peminatan Aktuaria.
+
+Saya juga memiliki gelar [Certified International Specialist Data Visualization (CISDV)]
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/angela-iskandar-ai)ku ya.
 <!--
 **AngelaIskandar11/AngelaIskandar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
